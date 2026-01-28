@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "node test_all_commands.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "node-zklib": "^1.3.0",
+    "zkteco-js": "^1.7.1"
+  }
+}
